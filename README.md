@@ -9,7 +9,11 @@
   <img src="/images/ss1.PNG">
 </p>
 <p align="center">
-  <img src="/images/ss2.PNG">
+  <img src="/images/ss2PNG.PNG">
+</p>
+
+<p align="center">
+  <img src="/images/ss3.PNG">
 </p>
 <p align="center">
   <img src="/images/ss4.PNG">
