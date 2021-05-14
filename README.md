@@ -12,9 +12,6 @@
   <img src="/images/ss2.PNG">
 </p>
 <p align="center">
-  <img src="/images/ss3PNG.PNG">
-</p>
-<p align="center">
   <img src="/images/ss4.PNG">
 </p>
 <p align="center">
